@@ -1,0 +1,12 @@
+{
+    "keyboard_name": "M4KE", 
+    "url": "https://github.com/thomastrain00/M4KE", 
+    "maintainer": "qmk", 
+    "width": 2, 
+    "height": 4, 
+    "layouts": {
+        "LAYOUT": {
+            "layout": [{"x":0.5, "y":0}, {"x":0, "y":2}, {"x":1, "y":2}, {"x":0, "y":3}, {"x":1, "y":3}]
+        }
+    }
+}

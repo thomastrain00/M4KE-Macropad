@@ -1,0 +1,14 @@
+{
+  "name": "M4KE",
+  "vendorId": "0x5454",
+  "productId": "0x3445",
+  "lighting": "none",
+  "matrix": { "rows": 3, "cols": 2 },
+  "layouts": {
+    "keymap": [
+      ["0,0"],
+      ["1,0", "1,1"],
+      ["2,0", "2,1"]
+    ]
+  }
+}
